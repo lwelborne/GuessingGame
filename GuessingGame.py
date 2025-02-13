@@ -1,5 +1,4 @@
 # Lenora Welborne
-# CIS261
 # GuessingGame
 import random
 def display_heading():
